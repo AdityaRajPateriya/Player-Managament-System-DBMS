@@ -4,7 +4,6 @@ This repository contains all the project files and necessary details about softw
 
 ***NOTE : Please read installation and execution steps present at the bottom before downloading. Thank you***
 
-***Project demo : [Project demo video link](https://drive.google.com/open?id=1dcTCe_G5rUe6ibVh3Yd_pe3PIPPDiJ1c)***
 
 ## About FMS
 
@@ -57,9 +56,6 @@ The project also helps the users to keep track of the player details in a comput
           - type the following url : http://localhost/your_project_name_inside_www_directory/index.html
           - enjoy.
  
-## Linting tool used:
- 1 : JSLint
- 
 
-For further queries : Drop me mail at pklappy21@gmail.com
+For further queries : Drop me mail at adityarajpateriya@gmail.com
 # dbms-project
