@@ -1,4 +1,4 @@
- # FIFA-18-Management-System (FMS)
+ # Player-Management-System (FMS)
 
 This repository contains all the project files and necessary details about softwares to run the project on your local machine.
 
@@ -58,4 +58,4 @@ The project also helps the users to keep track of the player details in a comput
  
 
 For further queries : Drop me mail at adityarajpateriya@gmail.com
-# dbms-project
+
